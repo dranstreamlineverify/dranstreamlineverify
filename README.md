@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dran</h1>
+<h1 align="center">Hi, I'm Dran!👋</h1>
 <h3 align="center">Python Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://dranoelflores.vercel.app/](https://dranoelflores.vercel.app/)
